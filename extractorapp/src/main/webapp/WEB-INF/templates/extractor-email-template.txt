@@ -1,6 +1,0 @@
-Le job d'extraction que vous avez soumis à la plateforme geOrchestra est maintenant terminé.
-<br/>
-Cliquez sur le lien suivant pour télécharger votre archive :
-<p> 
-<a href="{link}">{link}</a>
-</p>
